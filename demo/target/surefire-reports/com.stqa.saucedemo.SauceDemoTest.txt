@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.stqa.saucedemo.SauceDemoTest
 -------------------------------------------------------------------------------
-Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 37.83 s -- in com.stqa.saucedemo.SauceDemoTest
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 67.21 s -- in com.stqa.saucedemo.SauceDemoTest
